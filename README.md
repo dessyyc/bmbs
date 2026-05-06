@@ -1,2 +1,2 @@
 # bmbs
-this repository is for practicing the GitHub
+this repository is for practicing the GitHub Flow
